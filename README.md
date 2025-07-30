@@ -28,4 +28,4 @@ A minimal yet functional web-based todo list application built to practice DOM m
 ## Deployment
 
 This project is deployed on GitHub Pages:  
-🔗 [Live Demo](ADD LINK HERE)
+🔗 [Live Demo](https://castaneda012.github.io/se_project_todo-app/)
