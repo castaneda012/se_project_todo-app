@@ -54,7 +54,7 @@ const renderTodo = (item) => {
 };
 
 initialTodos.forEach((item) => {
-  renderTodo(item); // just one line of code instead of the 2 lines
+  renderTodo(item);
 });
 
 const newTodoValidator = new FormValidator(validationConfig, addTodoForm);
