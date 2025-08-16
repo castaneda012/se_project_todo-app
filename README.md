@@ -14,6 +14,14 @@ A minimal yet functional web-based todo list application built to practice DOM m
 - ✅ Clean modular code using ES6 classes
 - ✅ Accessible and responsive layout
 
+## Assets
+
+This project requires an `/images` folder with three SVG files:
+
+- `close.svg` (popup close button)
+- `checkbox.svg` (checkbox icon)
+- `delete-icon.svg` (delete button)
+
 ## Technology
 
 - **HTML5** – Semantic markup for structure
